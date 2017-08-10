@@ -1,0 +1,9 @@
+header {
+  border-bottom: 2px solid beige;
+  height: 150px;
+}
+
+input {
+  height: 30px;
+  border-radius: 10px;
+}
